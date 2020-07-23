@@ -22,7 +22,7 @@ class Doctor
   end
   
   def appointments
-    App
+    Appointment.all
   end
   
   
