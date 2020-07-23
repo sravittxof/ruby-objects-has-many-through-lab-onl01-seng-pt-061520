@@ -25,6 +25,8 @@ class Doctor
     Appointment.all.select { |appointments| appointments.doctor.name == self.name }
   end
   
-  
+  def patients
+    
+  end
   
 end
