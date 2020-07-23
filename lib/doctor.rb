@@ -22,7 +22,7 @@ class Doctor
   end
   
   def appointments
-    Appointment.all
+    Appointment.all.select { |app
   end
   
   
