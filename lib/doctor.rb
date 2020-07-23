@@ -17,7 +17,9 @@ class Doctor
     @@all << self
   end      
   
-  
+  def new_appointment
+    
+  end
   
   
   
