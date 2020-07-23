@@ -3,7 +3,9 @@ class Genre
   
   @@all = []
   
-  def 
+  def initialize
+    
+  end
 
 
 end
